@@ -1,13 +1,22 @@
 # Atividade-s3
+
 Lógica Aplicada - Estrutura condicional, Escopo e Função em JavaScript
 
 Essa terceira atividade do curso tenho que colocar em prática a Resolução de Problemas/Lógica aplicada e JavaScript.
-As semanas estão cada vez mais difícil, cada aprendizado é complemento de outro e assim sucessivamente.
+As semanas estão cada vez mais difíceis, cada aprendizado é complemento de outro e assim sucessivamente.
+
 Estou aqui na batalha para a resolução dessa atividade espero que gostem !!!
 
-<svg viewBox="0 0 128 128">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-          
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="200px" />
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="200px" />
+<div align="right">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="200px" />
+</div>
+       
+    
+    
 
 
           
